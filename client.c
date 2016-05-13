@@ -18,6 +18,7 @@ int main(int argc, char *argv[])    //argv[1] = server's address , argv[2]=portn
       exit(0);
    }
 	
+	
    portno = atoi(argv[2]);  //to convert to integer
    
    // Create a socket 
